@@ -5,12 +5,12 @@ body {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 2em;
   line-height: 2.3;
 }
 
 h3 {
-  font-size: 22px;
+  font-size: 1.4em;
   line-height: 1.2;
 }
 
@@ -20,7 +20,7 @@ p {
 }
 
 .author {
-  font-size: 19px;
+  font-size: 1.3em;
   line-height: 1.2;
 }
 
